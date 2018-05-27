@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ornek-spring
+Implementation-Version: V.4.3.1
+Built-By: vektorel
+Implementation-Vendor-Id: com.ornek
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ornek-spring
+Created-By: Maven Integration for Eclipse
+
